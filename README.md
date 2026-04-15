@@ -1,9 +1,9 @@
 # Project Overview: Trending YouTube Videos
 ## Foundations of Computer Science
 
-This project explores the dynamics of viral content through the lens of the Trending YouTube Videos dataset. Utilizing Python within a Jupyter Notebook environment, the workflow integrates data ingestion, cleaning, and structured analysis to uncover patterns in global media trends.
+Questo progetto è stato sviluppato con l'obiettivo principale di apprendere e padroneggiare gli strumenti fondamentali della Data Science in Python. Il focus è rivolto all'utilizzo pratico di librerie specializzate e dell'ambiente di sviluppo interattivo per l'analisi dei dati.
 
 ### Key Technical Components:
-* **Data Handling:** Leveraged the json library to parse complex metadata and category mappings.
-* **Data Manipulation:** Utilized pandas for efficient DataFrame operations, including data cleaning, filtering, and aggregation.
-* **Environment:** Conducted end-to-end analysis within an interactive Jupyter framework to ensure reproducible and documented results.
+* **Data Handling:** Apprendimento dell'uso della libreria `json` per la gestione di metadati complessi e mappatura delle categorie.
+* **Data Manipulation:** Utilizzo intensivo di `pandas` per imparare le operazioni fondamentali sui DataFrame, tra cui pulizia dei dati, filtraggio, trasformazione e aggregazione.
+* **Environment:** Implementazione dell'intero workflow all'interno di **Jupyter Notebook** per approfondire la documentazione del codice e la riproducibilità dell'analisi.
